@@ -9,7 +9,7 @@ We're creating a library called `how-long-till-lunch`, which usefully tells us h
 ```js
 console.log('it will be lunchtime in ' + howLongTillLunch());
 ```
-
+[文章](https://glebbahmutov.com/blog/rolled-libraries/)
 ## Getting started
 
 Clone this repository and install its dependencies:
